@@ -1,4 +1,4 @@
-NAME = Bitcoin
+NAME = btc
 CC = c++
 CLAFGS = -Wall -Wextra -Werror -std=c++98
 SRCS = $(wildcard *.cpp)
